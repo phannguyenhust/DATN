@@ -1,0 +1,3 @@
+[submodule "IotMonitoring"]
+	path = IotMonitoring
+	url = https://github.com/phannguyenhust/DATN
